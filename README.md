@@ -1,4 +1,4 @@
-Krqna_bot : Auto comment / upvote when CERTAIN CONDITIONS SATISFIED.
+Krqna_bot : Auto comment / upvote only when CERTAIN CONDITIONS SATISFIED.
 
 Used in steemit.com!
 
