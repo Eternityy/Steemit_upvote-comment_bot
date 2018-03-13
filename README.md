@@ -1,4 +1,8 @@
-"# kr-qna-comment-bot" 
-"# kr-qna-comment-bot" 
+Krqna_bot : Auto comment / upvote when CERTAIN CONDITIONS SATISFIED.
 
-kr-qna bot, which automatically comments introduction message to newbie who used kr-join tag.
+Used in steemit.com!
+
+Made and being used by @eternittyyy
+
+>www.steemit.com/@eternittyyy
+
